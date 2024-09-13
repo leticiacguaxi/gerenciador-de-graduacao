@@ -1,0 +1,10 @@
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\bin\Debug\Biblioteca0.1.exe.config
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\bin\Debug\Biblioteca0.1.exe
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\bin\Debug\Biblioteca0.1.pdb
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0.1.csproj.AssemblyReference.cache
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0._1.Form1.resources
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0._1.Properties.Resources.resources
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0.1.csproj.GenerateResource.cache
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0.1.csproj.CoreCompileInputs.cache
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0.1.exe
+C:\Users\letic\source\repos\Biblioteca0.1\Biblioteca0.1\obj\Debug\Biblioteca0.1.pdb
